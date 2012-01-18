@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/testApp.h"
+         timestampString = "348509552.436036"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "28"
+         endingLineNumber = "28"
+         landmarkName = "setImage(ofFbo &amp; f)"
+         landmarkType = "5">
+         <Actions>
+            <SoundAction
+               soundName = "Basso">
+            </SoundAction>
+         </Actions>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/testApp.h"
+         timestampString = "348509552.436036"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "24"
+         endingLineNumber = "24"
+         landmarkName = "draw()"
+         landmarkType = "5">
+         <Actions>
+            <SoundAction
+               soundName = "Basso">
+            </SoundAction>
+         </Actions>
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
